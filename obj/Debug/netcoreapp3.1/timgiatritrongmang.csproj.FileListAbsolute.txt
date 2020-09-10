@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.exe
+C:\Users\Administrator\source\repos\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.deps.json
+C:\Users\Administrator\source\repos\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.runtimeconfig.json
+C:\Users\Administrator\source\repos\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.dll
+C:\Users\Administrator\source\repos\timgiatritrongmang\bin\Debug\netcoreapp3.1\timgiatritrongmang.pdb
+C:\Users\Administrator\source\repos\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.dll
+C:\Users\Administrator\source\repos\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.pdb
+C:\Users\Administrator\source\repos\timgiatritrongmang\obj\Debug\netcoreapp3.1\timgiatritrongmang.genruntimeconfig.cache
